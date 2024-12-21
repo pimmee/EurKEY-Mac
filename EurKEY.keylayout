@@ -524,15 +524,15 @@
 			<key code="30" output="›"/>
 			<key code="31" action="Ö"/>
 			<key code="32" action="Ü"/>
-			<key code="33" output="‹"/>
+			<key code="33" output="Å"/>
 			<key code="34" action="Ï"/>
 			<key code="35" output="Œ"/>
 			<key code="36" output="&#x000D;"/>
 			<key code="37" action="Ø"/>
 			<key code="38" output="Ú"/>
-			<key code="39" action="¨"/>
+			<key code="39" action="Ä"/>
 			<key code="40" output="Ĳ"/>
-			<key code="41" output="·"/>
+			<key code="41" output="Ö"/>
 			<key code="42" output="¦"/>
 			<key code="43" output="Ò"/>
 			<key code="44" output="…"/>
