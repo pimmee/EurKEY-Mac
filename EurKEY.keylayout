@@ -393,7 +393,7 @@
 			<key code="11" output="í"/>
 			<key code="12" action="æ"/>
 			<key code="13" output="å"/>
-			<key code="14" action="ë"/>
+			<key code="14" output="é"/>
 			<key code="15" output="ý"/>
 			<key code="16" output="ÿ"/>
 			<key code="17" output="þ"/>
@@ -505,7 +505,7 @@
 			<key code="11" output="Í"/>
 			<key code="12" action="Æ"/>
 			<key code="13" output="Å"/>
-			<key code="14" action="Ë"/>
+			<key code="14" output="É"/>
 			<key code="15" output="Ý"/>
 			<key code="16" output="Ÿ"/>
 			<key code="17" output="Þ"/>
